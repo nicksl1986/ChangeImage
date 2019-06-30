@@ -1,0 +1,10 @@
+.changeSize{
+    font-size: 20px;
+    background-color: aqua;
+    color: white;
+    margin-left: 15%;
+}
+
+img{
+    border: 2px dashed black;
+}
